@@ -14,52 +14,52 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "23470912",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "33ac02b7891c5396e6b305802d56cf4f",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "",
+        "value": "8234671504:AAFUi0nvY5pmcUvCVRlzKCgp--j5XsOCXo8",
         "required": true
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "",
+        "value": "mongodb+srv://TEAMBABY01:UTTAMRATHORE09@cluster0.vmjl9.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "",
+        "value": "8132426159",
         "required": true
       },
       "STRING_SESSION": {
         "description": "A Pyrogram v2 String Session .",
-        "value": "",
+        "value": "AgFwyZ4ABxSIfHIB2sChsNkGM_Bl1t-M9cIcu6T5xwX08xunlPBcJ65K2h_XS8pFSrK25vomwr2Je_l4C8nIa2u9l0OhofUr2jnOmOmLGN4W-1LcBhyGpNRfFlyya2q5ZP4mC1Vg93OHlzbMltmyGLzsFwqc4Yd_n0LhRblVwj85PVHbCP7nzgFKeDDvfYVfuKuZuQaecq8qqDwnLzH1Mnu1sGqjoqMDD32rewnFr3D-P9I0jdXllphPEpc97NcNJezrwAygo6XPGYa7uJdqWyvJ4dmDkYxuJGEQFwR-JKRdM8GGQvRZVuQcuVZl7nmdJEZd__8SJ6fJ69pX7P12VlkjoeNpfAAAAAHQ77n3AA",
         "required": true
       },
       "QUEUE_LIMIT": {
         "description": "Fill Queue Limit . Example - 15",
-        "value": "",
+        "value": "15",
         "required": false
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku account's API key",
-        "value": "",
+        "value": "HRKU-AAwNu2aaHv0TKXSUaUJ6gxk_XODl79TyKs0giLl-RsFQ_wx11gGHU63r",
         "required": false
       },
       "HEROKU_APP_NAME": {
         "description": "Your heroku app name",
-        "value": "",
+        "value": "music",
         "required": false
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Do not ever try to put channel ID here.",
-        "value": "",
+        "value": "-1002820684247",
         "required": true
       }
     },
