@@ -14,32 +14,32 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "23470912",
+        "value": "",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "33ac02b7891c5396e6b305802d56cf4f",
+        "value": "",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "7933792528:AAEF6h9eO0jW7_qrqgsMcCchm4i164lf_38",
+        "value": "",
         "required": true
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "mongodb+srv://TEAMBABY01:UTTAMRATHORE09@cluster0.vmjl9.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+        "value": "",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "8132426159",
+        "value": "",
         "required": true
       },
       "STRING_SESSION": {
         "description": "A Pyrogram v2 String Session .",
-        "value": "AQFwyZ4AT2vRV4RXPjU547RcRJeI3Etzn1QM_cZLgrxCNEQMY3l288pHdLyN3ZL6i2rrx21dSiyPgLRY6VLoOkykSqJDD2EOjFzyzQ9DMX44irvyi9YCVvX-qMicGk4I-FYudmVK7H2FegwEZ0bhvUeZQw-670NOQfMEFfITTrxhwXWz7KyMYDLLKpJZbuUh7J-PpYCNlYmN3SbcbBoGr6s4cB8HD9pXrPBOqobioEWvizBD74nQKW-79uSimKFlqTBuRwC7O-FH0vTNwwYma5TrZFJdO9a1aYkDeiBe3XRxYONtANbcq7_-MAPvhYsDFxfx756upunIFV6Y0keqYjaUUmidSwAAAAHonw_oAA",
+        "value": "",
         "required": true
       },
       "QUEUE_LIMIT": {
@@ -49,7 +49,7 @@
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku account's API key",
-        "value": "HRKU-AAwNu2aaHv0TKXSUaUJ6gxk_XODl79TyKs0giLl-RsFQ_wx11gGHU63r",
+        "value": "",
         "required": false
       },
       "HEROKU_APP_NAME": {
@@ -59,7 +59,7 @@
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Do not ever try to put channel ID here.",
-        "value": "-1002624123610",
+        "value": "",
         "required": true
       }
     },
@@ -76,5 +76,6 @@
       ],
       "stack": "container"
   }
+
 
 
