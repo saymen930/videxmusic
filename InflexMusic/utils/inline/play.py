@@ -62,7 +62,7 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(text=_["S_B_12"], url=config.SUPPORT_CHANNEL),
-            InlineKeyboardButton(text=_["S_B_5"], user_id=config.OWNER_ID),
+            InlineKeyboardButton(text=_["S_B_13"], user_id=config.SUPPORT_CHAN),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
     ]
@@ -73,7 +73,7 @@ def stream_markup(_, chat_id):
     buttons = [
         [
             InlineKeyboardButton(text=_["S_B_12"], url=config.SUPPORT_CHANNEL),
-            InlineKeyboardButton(text=_["S_B_5"], user_id=config.OWNER_ID),
+            InlineKeyboardButton(text=_["S_B_13"], user_id=config.SUPPORT_CHAN),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
     ]
