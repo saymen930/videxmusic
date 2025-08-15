@@ -111,8 +111,7 @@ def livestream_markup(_, videoid, user_id, mode, channel, fplay):
             ),
         ],
         [
-            InlineKeyboardButton(text=_["S_B_5"], url=config.OWNER_NAME),
-            InlineKeyboardButton(text=_["S_B_7"], url=config.SUPPORT_GROUP)
+            InlineKeyboardButton(text=_["S_B_13"], url=config.SUPPORT_GROUP)
         ],         
         [
             InlineKeyboardButton(
