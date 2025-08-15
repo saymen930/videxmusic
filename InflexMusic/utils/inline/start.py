@@ -15,6 +15,7 @@ def start_panel(_):
                 text=_["S_B_1"], url=f"https://t.me/{app.username}?startgroup=true"
             ),
         ]
+    ],
         
     return buttons
 
