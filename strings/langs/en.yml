@@ -215,7 +215,7 @@ P_B_4: "Normal"
 
 ST_B_1: "Təsdiqlənmiş İstifadəçi"
 ST_B_2: "İfa Rejimi"
-ST_B_3: "Dil"
+ST_B_3: "🇦🇿 Dil"
 ST_B_4: "Səsvermə Rejimi"
 ST_B_5: "Açıq"
 ST_B_6: "Bağlı"
@@ -309,5 +309,6 @@ gban_10: "» Heç bir istifadəçi bot tərəfindən ümumi qadağan olunmayıb.
 gban_11: "» Ümumi qadağan olunmuş istifadəçilər siyahısı yüklənir..."
 gban_12: "<b>Ümumi Qadağan Olunmuş İstifadəçilər:</b>\n\n"
 #--------------------------------------------------------------------------------------------------------------------------------------
+
 
 
