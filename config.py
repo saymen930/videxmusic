@@ -87,35 +87,35 @@ autoclean = []
 confirmer = {}
 
 
-START_IMG_URL = ["https://files.catbox.moe/2q3ry6.jpg"]
-PING_IMG_URL = ["https://files.catbox.moe/2q3ry6.jpg"]
-STATS_IMG_URL = ["https://files.catbox.moe/2q3ry6.jpg"]
+START_IMG_URL = ["https://files.catbox.moe/su62du.jpg"]
+PING_IMG_URL = ["https://files.catbox.moe/su62du.jpg"]
+STATS_IMG_URL = ["https://files.catbox.moe/su62du.jpg"]
 PLAYLIST_IMG_URL = getenv(
-    "PLAYLIST_IMG_URL", "https://files.catbox.moe/2q3ry6.jpg"
+    "PLAYLIST_IMG_URL", "https://files.catbox.moe/su62du.jpg"
 )
 TELEGRAM_AUDIO_URL = getenv(
-    "TELEGRAM_AUDIO_URL", "https://files.catbox.moe/2q3ry6.jpg"
+    "TELEGRAM_AUDIO_URL", "https://files.catbox.moe/su62du.jpg"
 )
 TELEGRAM_VIDEO_URL = getenv(
-    "TELEGRAM_VIDEO_URL", "https://files.catbox.moe/2q3ry6.jpg"
+    "TELEGRAM_VIDEO_URL", "https://files.catbox.moe/su62du.jpg"
 )
 STREAM_IMG_URL = getenv(
-    "STREAM_IMG_URL", "https://files.catbox.moe/2q3ry6.jpg"
+    "STREAM_IMG_URL", "https://files.catbox.moe/su62du.jpg"
 )
 SOUNCLOUD_IMG_URL = getenv(
-    "SOUNCLOUD_IMG_URL", "https://files.catbox.moe/2q3ry6.jpg"
+    "SOUNCLOUD_IMG_URL", "https://files.catbox.moe/su62du.jpg"
 )
 YOUTUBE_IMG_URL = getenv(
-    "YOUTUBE_IMG_URL", "https://files.catbox.moe/2q3ry6.jpg"
+    "YOUTUBE_IMG_URL", "https://files.catbox.moe/su62du.jpg"
 )
 SPOTIFY_ARTIST_IMG_URL = getenv(
-    "SPOTIFY_ARTIST_IMG_URL", "https://files.catbox.moe/2q3ry6.jpg"
+    "SPOTIFY_ARTIST_IMG_URL", "https://files.catbox.moe/su62du.jpg"
 )
 SPOTIFY_ALBUM_IMG_URL = getenv(
-    "SPOTIFY_ALBUM_IMG_URL", "https://files.catbox.moe/2q3ry6.jpg"
+    "SPOTIFY_ALBUM_IMG_URL", "https://files.catbox.moe/su62du.jpg"
 )
 SPOTIFY_PLAYLIST_IMG_URL = getenv(
-    "SPOTIFY_PLAYLIST_IMG_URL", "https://files.catbox.moe/2q3ry6.jpg"
+    "SPOTIFY_PLAYLIST_IMG_URL", "https://files.catbox.moe/su62du.jpg"
 )
 
 
@@ -138,6 +138,7 @@ if SUPPORT_GROUP:
         raise SystemExit(
             "[ERROR] - Your SUPPORT_GROUP url is wrong. Please ensure that it starts with https://"
         )
+
 
 
 
