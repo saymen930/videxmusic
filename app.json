@@ -24,7 +24,7 @@
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "7933792528:AAEF6h9eO0jW7_qrqgsMcCchm4i164lf_38",
+        "value": "8318145329:AAEJMh_gZ2phAA1DtEKCbNsLcUsklOBm6tE",
         "required": true
       },
       "MONGO_DB_URI": {
@@ -39,7 +39,7 @@
       },
       "STRING_SESSION": {
         "description": "A Pyrogram v2 String Session .",
-        "value": "AgFwyZ4APlnQCXvM7m6v4wnEV7Nye_9EP0ONvI164fM5vBfndOcxYDHsDWtz8HVmker0OzUWLjTwlFaUQjY4mH6zgNT_yMPdHBqIv7bN7eO1B5pFkOOxfrMKRnuRpruisgsJWgy4efHkbZrJFoQh_l8fFRYEp3XlYDDpGwUIWgmLOK7EQ5H-f4l5CP0EkHSXxOf2gAvpvuud2eJXBk2Mvy_5wryM_IgJB8VfMs33DNPJ9Qm2q8u4J5QvVqG1g9j7n76OOkev1o_aUXoEe9lqM5lZ3YU4eTijSkECUEi2RVI5B-OxYVi9Szh-LHBY61_Yva9BvjG_o60aQcIeHWUrHbB07iR4swAAAAGGg0BgAA",
+        "value": "AQFwyZ4AKjdKA7J0dqF6cedHhLsYpIS35xWyrYKdkCl_kiXiUAdTj9rb8MyWkXf-6Sz2W453q3DuJkF2CRnF7vUOSTCO2EXeOHylKsIdNKheSm-ExMoxBfJswZCUNlM4IgeIyVdT748N3DpCjgIDWZroNXVHoSUNJDzjK-M_VAYsMAMQdnzHb1Oo8fmRRhWhKYtb6a02t1QOh4HBBiywK081AcMLMcckd6Tw7vpOa-AsJfK9i5Nb0h9V9VW5DoMdduvtdECO9ZgUkr8xnniIOwcLGK7qKrucOJs91go6TCMVIRtffp0W4xs8mPocgfkfm3WkYiqacFRKKhmN1mksI3AU2D_IswAAAAH5W1pVAA",
         "required": true
       },
       "QUEUE_LIMIT": {
@@ -76,6 +76,7 @@
       ],
       "stack": "container"
   }
+
 
 
 
