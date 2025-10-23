@@ -36,7 +36,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/eko777e/musicrepo1",
+    "https://github.com/saymen930/ANNIE-X-MUSIC",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
@@ -48,9 +48,9 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", "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",
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Veten_1")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/botlardesdek")
-SUPPORT_CHAN = getenv("SUPPORT_CHAN", "https://t.me/RespublicOwner")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/debublumann")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/debublumann")
+SUPPORT_CHAN = getenv("SUPPORT_CHAN", "https://t.me/debublumann")
                       
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -138,6 +138,7 @@ if SUPPORT_GROUP:
         raise SystemExit(
             "[ERROR] - Your SUPPORT_GROUP url is wrong. Please ensure that it starts with https://"
         )
+
 
 
 
