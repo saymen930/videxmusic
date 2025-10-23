@@ -39,7 +39,7 @@
       },
       "STRING_SESSION": {
         "description": "A Pyrogram v2 String Session .",
-        "value": "AgDkbKcAGD5s-JHaIqBSYbGa6GF-vm7jTREbwZ11FsSJXP2EbuWGZjlaloEcZ5WdoLUd5z2f-ydCq5QZrnSPG8laR4rFpDg3PxCRSfRCuE947PSVNn3J95f1xVAtXBqjpfP0qLQWLCbux9WyVs9v32FxVtTA2rI2pNQHZBTd4CrfvSvuGvt0j91_IjiV_eGL5uGQDu1RJipMvOP1-tqDWPACQQFrfEWQl5UQvXUlN5_3780ewpTKuiV3iAFTBfzBkA2eyzyOJ8rzYj8VPoww3LNnTCDdoBuJF9mbNQRSO1yZd2IKT6ldPsIk_rLqG0XK36uKPrVr8Sn-NtBWu_L0EakMolc5dgAAAAFuxomcAA",
+        "value": "BAFmI0AAFIl0_hLWYms4YHHqGlRMsLX9l66kUHs5tOpiB-p74iq6A0MpvdSzCVY27dG9G9p6MJ8K0Erv6crU4smfVF2knf6pzfOVqMGCHr9cNqpT50UrihZclzhbJR3szyJuFZbVt_rVEkxeHkAYQX9udZBwh87Pj-_CW9Xfj8wuT20NHxmT6xQ_MMCs0OxPVaIANfyaU2Ax6Fpzhx6Ry00GcXYPjX3BKp4h6lcr3P8hTxqV2zA8ylTxIaiG9l7h14B3qSoGRrp5dJxBejcr_cF4USn_fPS4D-d78lHGIDBP8d3ELDWoLhgi4PotSYpqXv2k92_4Wb2QA_Ayn9KmoV1_kDsJlAAAAAH6K_ueAA",
         "required": true
       },
       "QUEUE_LIMIT": {
@@ -59,7 +59,7 @@
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Do not ever try to put channel ID here.",
-        "value": "-1002221938361",
+        "value": "-1003261746017",
         "required": true
       }
     },
@@ -76,6 +76,7 @@
       ],
       "stack": "container"
   }
+
 
 
 
